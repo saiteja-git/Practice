@@ -1,3 +1,3 @@
 print("hello world")
-print("Sai Teja")
+print("Sai")
 print("dammala")
